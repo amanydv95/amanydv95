@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👋 Hi, I'm Aman Kumar Yadav
 
-<!--
-**amanydv95/amanydv95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CS-AI | 💻 Learning DSA & Web Development  
+🚀 Dream: Contribute to Big Tech + Build Great Products
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tech Stack:
+- HTML, CSS, JavaScript (In Progress)
+- C++, STL, DSA (LeetCode, GFG)
+- Git, GitHub
+
+---
+
+## 📂 Projects:
+- 🔗 [Portfolio Website](https://github.com/amanydv95/portfolio-website) — *Personal website (in progress)*
+- 📁 [DSA Practice](https://github.com/amanydv95/DSA-Practice) — *LeetCode / GFG problems*
+
+---
+
+## 🎯 Goals:
+- Crack Microsoft SWE Internship 🧠
+- 100 DSA Problems by September
+- Build 2 Real Web Projects before October
+
+---
+
+## 🔗 Let's Connect
+- 📬 Email: [amanyadav95801@gmail.com]
+- [LinkedIn](https://www.linkedin.com/in/aman-kumar-yadav-125263284/)  
+- [GitHub](https://github.com/amanydv95)
+
+---
+
+_“Consistency > Talent. Learning every day.”_
