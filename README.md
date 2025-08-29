@@ -18,11 +18,6 @@
 
 ---
 
-## 🎯 Goals:
-- Crack Microsoft SWE Internship 🧠
-- 100 DSA Problems by September
-- Build 2 Real Web Projects before October
-
 ---
 
 ## 🔗 Let's Connect
