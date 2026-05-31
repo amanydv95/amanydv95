@@ -6,7 +6,7 @@
 ---
 
 ## 🔧 Tech Stack:
-- HTML, CSS, JavaScript (In Progress)
+- HTML, CSS, JavaScript (
 - C++, STL, DSA (LeetCode, GFG)
 - Git, GitHub
 
