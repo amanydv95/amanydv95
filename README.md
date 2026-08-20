@@ -103,7 +103,7 @@ A full-stack blogging platform with authentication, Google OAuth, post and comme
 **Tech:** MongoDB • Express.js • React.js • Node.js • JWT • Google OAuth
 
 🔗 **Repository:**
-Add your repository link here
+https://github.com/amanydv95/Dev-Diaries
 
 ---
 
@@ -141,18 +141,6 @@ https://github.com/amanydv95/DSA-Practice
 ▸ System Design Fundamentals
 ```
 
----
-
-## 🎯 2026 Goals
-
-* [ ] Solve 300+ DSA problems
-* [ ] Build production-quality full-stack applications
-* [ ] Strengthen backend development
-* [ ] Improve problem-solving & CS fundamentals
-* [ ] Contribute to open source
-* [ ] Land a Software Engineering internship
-
----
 
 ## 📈 My Developer Journey
 
