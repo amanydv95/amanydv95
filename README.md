@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Aman Kumar Yadav
 
-### 💻 Full-Stack Developer | C++ & DSA | Computer Science & AI
+### 💻 Full-Stack Developer | JAVA & DSA | Computer Science & AI
 
 I’m a B.Tech CS-AI student who enjoys **building full-stack applications, solving DSA problems, and learning how real-world software systems work.**
 
