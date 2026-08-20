@@ -1,126 +1,145 @@
-# 👋 Hey, I'm Aman Kumar Yadav
+# Aman Kumar Yadav
 
-### 💻 Full-Stack Developer | JAVA & DSA | Computer Science & AI
-
-I’m a B.Tech CS-AI student who enjoys **building full-stack applications, solving DSA problems, and learning how real-world software systems work.**
-
-Currently focused on becoming a **strong Software Engineer** through consistent problem solving, practical projects, and continuous learning.
+### Software Developer · Full-Stack Development · Java & DSA
 
 <p align="left">
   <a href="https://github.com/amanydv95">
-    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/GitHub-amanydv95-181717?style=flat-square&logo=github&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/aman-kumar-yadav-125263284/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:amanyadav95801@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 ---
 
-## 🚀 About Me
+## About
 
-* 🎓 **B.Tech — Computer Science & AI**
-* 💻 Interested in **Software Engineering & Full-Stack Development**
-* 🧠 Practicing **Data Structures & Algorithms**
-* 🌐 Building projects with the **MERN Stack**
-* 🔐 Learning authentication, REST APIs & backend development
-* 🛠️ Comfortable working with **Git & GitHub**
-* 📈 Improving my problem-solving skills every day
-* 🎯 Goal: **Become a strong Software Engineer and build products that matter**
+B.Tech Computer Science Engineering student with hands-on experience in **full-stack development** and a strong focus on **software engineering, Java, and Data Structures & Algorithms**.
+
+I enjoy building scalable web applications, designing REST APIs, implementing secure authentication systems, and turning ideas into functional products.
+
+Currently focused on strengthening **DSA, backend engineering, system fundamentals, and production-oriented development**.
 
 ---
 
-## 🛠️ Tech Stack
+## Experience
 
-### 👨‍💻 Languages
+### Full Stack Developer Intern · StackSkool
 
-<p>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-</p>
+**April 2026 – June 2026**
 
-### 🌐 Web Development
+Worked on a production-oriented **Learning Management System (LMS)** using the MERN stack.
 
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-</p>
-
-### 🗄️ Databases & Backend
-
-<p>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge"/>
-</p>
-
-### 🧠 Computer Science
-
-```text
-Data Structures & Algorithms
-Object-Oriented Programming
-DBMS
-Operating Systems
-Computer Networks
-Problem Solving
-```
-
-### 🧰 Tools
-
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-</p>
+* Developed LMS features using **React, Node.js, Express.js, and MongoDB**.
+* Implemented **JWT authentication and role-based access control** for students and instructors.
+* Designed and integrated **REST APIs** for course management, enrollment, and assignment submissions.
+* Implemented **video uploads and student progress-tracking dashboards**.
+* Worked across frontend and backend components to deliver complete application workflows.
 
 ---
 
-## 🚀 Featured Projects
+## Technical Skills
 
-### 📊 FinVista — Financial Information Platform
+### Languages
 
-A full-stack web application designed to provide a modern platform for exploring and managing financial information.
+`Java` `C++` `JavaScript` `Python` `SQL`
 
-**Tech:** React.js • Node.js • Express.js • MongoDB • REST APIs
+### Frontend
 
-🔗 **Repository:**
-https://github.com/amanydv95/Finvista
+`React.js` `Redux Toolkit` `Tailwind CSS`
 
----
+### Backend
 
-### 📝 Dev Diaries — MERN Blog Platform
+`Node.js` `Express.js` `REST APIs` `JWT Authentication`
 
-A full-stack blogging platform with authentication, Google OAuth, post and comment management, dark/light mode, and an admin dashboard.
+### AI & APIs
 
-**Tech:** MongoDB • Express.js • React.js • Node.js • JWT • Google OAuth
+`Gemini API` `Google OAuth` `Firebase`
 
-🔗 **Repository:**
-https://github.com/amanydv95/Dev-Diaries
+### Databases
 
----
+`MongoDB` `MySQL`
 
-### 🧠 DSA Practice
+### Core CS
 
-My ongoing collection of **Data Structures & Algorithms** problems solved while preparing for technical interviews.
+`Data Structures & Algorithms` `OOP` `DBMS` `Operating Systems`
 
-**Topics include:**
+### Tools
 
-`Arrays` • `Strings` • `Binary Search` • `Linked List` • `Stack` • `Queue` • `Trees` • `Graphs` • `DP`
-
-🔗 **Repository:**
-https://github.com/amanydv95/DSA-Practice
+`Git` `GitHub` `Postman`
 
 ---
 
-## 📊 GitHub Activity
+## Featured Projects
+
+### FinVista
+
+**AI-powered Financial Planning Platform**
+
+A full-stack financial platform focused on **expense tracking, financial planning, portfolio management, and financial insights**.
+
+**Highlights**
+
+* Built a complete full-stack architecture using **React, Node.js, Express.js, and MongoDB**.
+* Integrated **Gemini API** to provide an AI-powered financial advisory chatbot.
+* Developed interactive analytics and visualization dashboards for financial trends and portfolio performance.
+
+**Stack:** `React.js` `Node.js` `Express.js` `MongoDB` `Gemini API`
+
+→ [View Project](https://github.com/amanydv95/Finvista)
+
+---
+
+### Dev Diaries
+
+**Full-Stack Blogging Platform**
+
+A MERN-based blogging platform with secure authentication, content management, comments, and Google OAuth.
+
+**Highlights**
+
+* Implemented **JWT and Google OAuth authentication**.
+* Built blog creation, management, interaction, and comment functionality.
+* Integrated **Firebase image uploads**.
+* Used **Redux Toolkit** for efficient client-side state management.
+* Designed REST APIs with Express.js and MongoDB.
+
+**Stack:** `React.js` `Node.js` `Express.js` `MongoDB` `Firebase` `Redux Toolkit` `Tailwind CSS`
+
+→ [View Project](https://github.com/amanydv95/Dev-Diaries)
+
+---
+
+### DSA Practice
+
+**Data Structures & Algorithms**
+
+A collection of problems and solutions focused on building strong problem-solving and interview skills.
+
+**Topics:**
+`Arrays` · `Strings` · `Binary Search` · `Linked Lists` · `Stacks` · `Queues` · `Trees` · `Graphs` · `Dynamic Programming`
+
+→ [View Repository](https://github.com/amanydv95/DSA-Practice)
+
+---
+
+## Achievements
+
+### 🏆 Hackamania — Top 3
+
+Finished in the **Top 3 among 50+ teams** for innovation and implementation of a working prototype developed within 24 hours.
+
+### 🇮🇳 Smart India Hackathon 2025
+
+Developed an application focused on **crowdsourced civic issue reporting and resolution**.
+
+---
+
+## GitHub Activity
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=amanydv95&show_icons=true&hide_border=true&rank_icon=github" height="165"/>
@@ -129,45 +148,32 @@ https://github.com/amanydv95/DSA-Practice
 
 ---
 
-## 🧩 Currently Learning
+## Current Focus
 
 ```text
-▸ Advanced DSA & Problem Solving
-▸ Full-Stack Development
-▸ Backend Architecture
-▸ REST API Design
-▸ Authentication & Authorization
-▸ Database Design
-▸ System Design Fundamentals
+Java & DSA
+      ↓
+Backend Engineering
+      ↓
+Full-Stack Development
+      ↓
+System Design & Software Engineering
 ```
-
-
-## 📈 My Developer Journey
-
-```text
-Learn → Build → Break → Debug → Improve → Repeat
-```
-
-I believe that **consistent improvement beats short bursts of motivation.**
 
 ---
 
-## 🤝 Let's Connect
+## Let's Connect
 
-<p>
+<p align="left">
   <a href="mailto:amanyadav95801@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/aman-kumar-yadav-125263284/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://github.com/amanydv95">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
   </a>
 </p>
 
----
-
-### 💡 *"Consistency > Talent. Keep building. Keep learning."*
-
-⭐ If you find any of my projects useful, feel free to explore them or give them a star!
+**Open to software engineering opportunities, technical collaborations, and impactful projects.**
