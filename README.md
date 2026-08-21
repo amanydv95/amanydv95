@@ -142,17 +142,24 @@ Developed an application focused on **crowdsourced civic issue reporting and res
 ## GitHub Activity
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"
-    alt="GitHub Stats"
-    height="180"
-  />
-  <img
-    src="https://streak-stats.demolab.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"
-    alt="GitHub Streak"
-    height="180"
-  />
+  <a href="https://github.com/amanydv95">
+    <img src="https://img.shields.io/badge/Explore%20My%20GitHub-amanydv95-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
+
+<p align="center">
+  <i>Building consistently through projects, problem solving, and open-source learning.</i>
+</p>
+
+<p align="center">
+  <a href="https://github.com/amanydv95?tab=repositories">
+    <img src="https://img.shields.io/badge/Repositories-View%20Projects-24292F?style=flat-square&logo=github&logoColor=white" />
+  </a>
+  <a href="https://github.com/amanydv95?tab=stars">
+    <img src="https://img.shields.io/badge/Starred%20Projects-Explore-24292F?style=flat-square&logo=github&logoColor=white" />
+  </a>
+</p>
+
 
 ## Current Focus
 
