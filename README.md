@@ -46,7 +46,7 @@ Worked on a production-oriented **Learning Management System (LMS)** using the M
 
 ### Languages
 
-`Java` `C++` `JavaScript` `Python` `SQL`
+`Java`  `JavaScript` `Python` `SQL`
 
 ### Frontend
 
